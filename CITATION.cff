@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this architecture, schema, benchmark harness, or white papers in your research, please cite it using the metadata below."
+type: software
+title: "Two Hands in a Local Box: Decoupled Neuro-Symbolic State Gating, Defeasible Negative Provenance, and Companion Historiography"
+version: "1.0.0"
+date-released: "2026-11-21"
+doi: "10.5281/zenodo. 24431728"
+license: "MIT"
+authors:
+  - family-names: "McDonald"
+    given-names: "Henry Oscar Arthur"
+keywords:
+  - "decoupled neuro-symbolic architecture"
+  - "SQLite state gating"
+  - "defeasible negative provenance"
+  - "verifier theater"
+  - "local-first AI"
+  - "large language models"
+  - "Kestrel-7 benchmark"
+abstract: >-
+  A local-first, open-source neuro-symbolic architecture pairing a stateless LLM
+  front-end (<= 2,200-token working-memory packets) with an ACID SQLite epistemic
+  ledger enforcing engine-level verifier-scope coupling (trg_verif_scope_coupling),
+  single-claim atomicity, and defeasible negative provenance ([FALSIFIED] -> reopens).
+  Includes Volume I (Two Hands in a Local Box, 56 pp.), Volume II (The Age of Overkill
+  and the Grounded Wire, 26 pp.), Failures, Parables & Crash Reports (13 pp.), the
+  adversarial Trilogy Redline Vetting Report, schema/schema.sql, the 11-test invariant
+  suite, and the Kestrel-7 20-step stateful gauntlet.
+preferred-citation:
+  type: report
+  title: "Two Hands in a Local Box: A Decentralized, Open-Source Alternative to Centralized Cloud AI"
+  authors:
+    - family-names: "McDonald"
+      given-names: "Henry Oscar Arthur"
+  year: 2026
+  month: 11
+  doi: "10.5281/zenodo. 24431728"
+  notes: "Volume I white paper accompanied by Volume II historiography and MIT-licensed reference implementation. Volume III verbatim archive is withheld/gated."

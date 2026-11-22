@@ -1,0 +1,47 @@
+# Hard Privacy Gate: Private Databases, Backups & Volume III Verbatim Archive
+*.db
+*.db.*
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+*.bak
+*.bak.*
+archive.db
+data/corpus.db
+data/dialogue_build.db
+
+# Strictly Gated / Private Archives & Personal Dossiers
+Verbatim/
+Sage/Verbatim/
+corpus_verbatim_dialogue_complete*
+corpus_history_extended*
+data/extended_history_*
+chapters/extended_history_parts/
+data/closedloop_deltas/
+data/archive_ro_forensics.json
+data/local_corpus_forensics.json
+data/corpus_history_telemetry.json
+data/dialogue_manifest_summary.json
+output/dialogue_shards/
+raw_corpus/
+
+# Secrets, Credentials & Local Environments
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+config/spark_watchlist.txt
+data/archive_backfill_report.json
+data/closedloop_state.json
+
+# Python & Local Build Artifacts
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+logs/
+.DS_Store

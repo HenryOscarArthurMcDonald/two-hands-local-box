@@ -1,0 +1,4 @@
+# Copy this file to config/spark_watchlist.txt and add one Gemini or Spark
+# conversation URL per line to monitor during `scripts/sync_and_ingest.py`:
+# https://gemini.google.com/app/<YOUR_CHAT_ID>
+# https://gemini.google.com/spark/chat/<YOUR_SPARK_CHAT_ID>

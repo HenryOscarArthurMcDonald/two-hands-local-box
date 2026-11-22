@@ -1,0 +1,26 @@
+{
+  "title": "Two Hands in a Local Box: Decoupled Neuro-Symbolic State Gating, Defeasible Negative Provenance, and Companion Historiography",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "publication_date": "2026-11-21",
+  "version": "1.0.0",
+  "language": "eng",
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "McDonald, Henry Oscar Arthur"
+    }
+  ],
+  "keywords": [
+    "neuro-symbolic AI",
+    "SQLite",
+    "local-first computing",
+    "defeasible negative provenance",
+    "verifier-scope coupling",
+    "AI reliability",
+    "LLM state gating",
+    "Kestrel-7 benchmark"
+  ],
+  "description": "<p>Public release bundle for <em>Two Hands in a Local Box</em> by Henry Oscar Arthur McDonald: Volume I (<em>Two Hands in a Local Box</em>, 56 pp.), Volume II (<em>The Age of Overkill and the Grounded Wire</em>, 26 pp.), <em>Failures, Parables &amp; Crash Reports</em> (13 pp., 9 verified dual-voice builder post-mortems), the adversarial <em>Trilogy Redline &amp; Vetting Report</em>, and the MIT-licensed local ACID SQLite state-gating reference implementation (<code>schema/schema.sql</code>, <code>scripts/</code>, 11-test invariant harness, and Kestrel-7 20-step stateful contradiction gauntlet).</p><p><strong>Privacy Note:</strong> Volume III (the complete unfiltered verbatim archive), <em>The Overkill Crucible: Extended Archival History (2025\u20132026)</em>, and all raw private SQLite databases are intentionally withheld/gated pending independent verification of the core thesis and intent.</p>"
+}

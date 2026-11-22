@@ -1,0 +1,13 @@
+# Core SQLite schema, trg_verif_scope_coupling, and benchmark_gauntlet.py --self-test
+# run on pure Python 3.10+ standard library (zero external packages required).
+#
+# Optional local scientific packages required for hybrid TF-IDF RRF retrieval
+# (scripts/arachne_bridge.py) and full 10-test suite (scripts/test_pilot_harness.py):
+numpy>=1.26
+scikit-learn>=1.4
+
+# Optional publication figure/PDF regeneration dependencies:
+# matplotlib>=3.8
+# pillow>=10.0
+# reportlab>=4.0
+# pymupdf>=1.24
